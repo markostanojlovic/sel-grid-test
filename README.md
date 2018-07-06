@@ -1,8 +1,8 @@
 # Setup Selenium Grid with docker containers 
 
-Requirements:
-  - Python36 - setup and activate virtual environment
-  - python -m pip install docker-compose
+*Requirements:*
+  - Python 3.6 - setup and activate virtual environment
+  - Install docker-compose: `python -m pip install docker-compose`
 
 #### Pull docker images: 
 ```bash
